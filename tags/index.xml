@@ -6,7 +6,7 @@
     <description>Recent content in Tags on SGi Flämingrand e.V.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <copyright>Copyright (c) 2017, Schützengilde Flämingrand e.V.</copyright>
+    <copyright>Copyright (c) 2018, Schützengilde Flämingrand e.V.</copyright>
     <lastBuildDate>Fri, 06 Oct 2017 12:39:56 +0200</lastBuildDate>
     
 	<atom:link href="https://sgi-flaemingrand.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -18,6 +18,33 @@
       <pubDate>Fri, 06 Oct 2017 12:39:56 +0200</pubDate>
       
       <guid>https://sgi-flaemingrand.github.io/tags/downloads/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ksv</title>
+      <link>https://sgi-flaemingrand.github.io/tags/ksv/</link>
+      <pubDate>Mon, 24 Sep 2018 13:48:37 +0200</pubDate>
+      
+      <guid>https://sgi-flaemingrand.github.io/tags/ksv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Links</title>
+      <link>https://sgi-flaemingrand.github.io/tags/links/</link>
+      <pubDate>Mon, 24 Sep 2018 13:48:37 +0200</pubDate>
+      
+      <guid>https://sgi-flaemingrand.github.io/tags/links/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sport</title>
+      <link>https://sgi-flaemingrand.github.io/tags/sport/</link>
+      <pubDate>Mon, 24 Sep 2018 13:48:37 +0200</pubDate>
+      
+      <guid>https://sgi-flaemingrand.github.io/tags/sport/</guid>
       <description></description>
     </item>
     
