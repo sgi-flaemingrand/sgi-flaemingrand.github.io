@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SGi Flämingrand e.V.</title>
-    <link>https://sgi-flaemingrand.github.io/</link>
+    <link>http://sgi-flaemingrand.de/</link>
     <description>Recent content on SGi Flämingrand e.V.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>Copyright (c) 2018, Schützengilde Flämingrand e.V.</copyright>
     <lastBuildDate>Wed, 24 Oct 2018 11:58:35 +0200</lastBuildDate>
     
-	<atom:link href="https://sgi-flaemingrand.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://sgi-flaemingrand.de/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bauarbeiten und Entwurfsstatus</title>
-      <link>https://sgi-flaemingrand.github.io/blog/2018/10/24/hinweis/</link>
+      <link>http://sgi-flaemingrand.de/blog/2018/10/24/hinweis/</link>
       <pubDate>Wed, 24 Oct 2018 11:58:35 +0200</pubDate>
       
-      <guid>https://sgi-flaemingrand.github.io/blog/2018/10/24/hinweis/</guid>
+      <guid>http://sgi-flaemingrand.de/blog/2018/10/24/hinweis/</guid>
       <description>&lt;p&gt;Bei dieser Seite handelt es sich derzeit noch um einen Entwurf.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -25,10 +25,10 @@
     
     <item>
       <title>Termine</title>
-      <link>https://sgi-flaemingrand.github.io/blog/2018/10/06/termine/</link>
+      <link>http://sgi-flaemingrand.de/blog/2018/10/06/termine/</link>
       <pubDate>Sat, 06 Oct 2018 13:44:37 +0200</pubDate>
       
-      <guid>https://sgi-flaemingrand.github.io/blog/2018/10/06/termine/</guid>
+      <guid>http://sgi-flaemingrand.de/blog/2018/10/06/termine/</guid>
       <description>&lt;p&gt;Dies sind die geplanten Termine im Jahr &lt;sup&gt;2018&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2019&lt;/sub&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -36,20 +36,20 @@
     
     <item>
       <title>Vorstand</title>
-      <link>https://sgi-flaemingrand.github.io/vorstand/</link>
+      <link>http://sgi-flaemingrand.de/vorstand/</link>
       <pubDate>Fri, 05 Oct 2018 20:17:35 +0200</pubDate>
       
-      <guid>https://sgi-flaemingrand.github.io/vorstand/</guid>
+      <guid>http://sgi-flaemingrand.de/vorstand/</guid>
       <description>Der geschäftsführende Vorstand besteht aus:
   Funktion Name Kontakt     1.Vorsitzender Sebastian Tschiedel vorstand@sgi-flaemingrand.de   2. Vorsitzender Daniel Michaelis vorstand@sgi-flaemingrand.de   Schatzmeister Thomas Bier vorstand@sgi-flaemingrand.de  Der erweiterte Vorstand besteht weiterhin aus:     Schriftführerin Nicole Kühne vorstand@sgi-flaemingrand.de   Sportleiter nicht besetzt    Jugendleiter nicht besetzt      </description>
     </item>
     
     <item>
       <title>Kreismeisterschaft</title>
-      <link>https://sgi-flaemingrand.github.io/blog/2018/09/24/kreismeisterschaft/</link>
+      <link>http://sgi-flaemingrand.de/blog/2018/09/24/kreismeisterschaft/</link>
       <pubDate>Mon, 24 Sep 2018 13:48:37 +0200</pubDate>
       
-      <guid>https://sgi-flaemingrand.github.io/blog/2018/09/24/kreismeisterschaft/</guid>
+      <guid>http://sgi-flaemingrand.de/blog/2018/09/24/kreismeisterschaft/</guid>
       <description>&lt;p&gt;Unser Verein hat in diesem Jahr recht erfolgreich an der Kreismeisterschaft im Ordnonnanzschießen in Lindwerder teilgenommen.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -57,10 +57,10 @@
     
     <item>
       <title>Königsschießen 2017</title>
-      <link>https://sgi-flaemingrand.github.io/blog/2017/10/23/koenig2017/</link>
+      <link>http://sgi-flaemingrand.de/blog/2017/10/23/koenig2017/</link>
       <pubDate>Mon, 23 Oct 2017 11:11:20 +0200</pubDate>
       
-      <guid>https://sgi-flaemingrand.github.io/blog/2017/10/23/koenig2017/</guid>
+      <guid>http://sgi-flaemingrand.de/blog/2017/10/23/koenig2017/</guid>
       <description>&lt;p&gt;Am Samstag den 14. Oktober 2017 haben wir unser diesjähriges Königsschießen ausgetragen.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -68,10 +68,10 @@
     
     <item>
       <title>Sport</title>
-      <link>https://sgi-flaemingrand.github.io/blog/2017/10/06/sport/</link>
+      <link>http://sgi-flaemingrand.de/blog/2017/10/06/sport/</link>
       <pubDate>Fri, 06 Oct 2017 20:48:16 +0200</pubDate>
       
-      <guid>https://sgi-flaemingrand.github.io/blog/2017/10/06/sport/</guid>
+      <guid>http://sgi-flaemingrand.de/blog/2017/10/06/sport/</guid>
       <description>&lt;p&gt;An dieser Stelle soll kurz auf den Begriff Sportordnung und auf die sogenannte Liste B eingegangen werden.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -79,20 +79,20 @@
     
     <item>
       <title>Neues Waffenrecht</title>
-      <link>https://sgi-flaemingrand.github.io/blog/2017/10/06/neues_waffenrecht/</link>
+      <link>http://sgi-flaemingrand.de/blog/2017/10/06/neues_waffenrecht/</link>
       <pubDate>Fri, 06 Oct 2017 14:13:24 +0200</pubDate>
       
-      <guid>https://sgi-flaemingrand.github.io/blog/2017/10/06/neues_waffenrecht/</guid>
+      <guid>http://sgi-flaemingrand.de/blog/2017/10/06/neues_waffenrecht/</guid>
       <description>&lt;p&gt;Am 06.07.2017 ist ein neues Waffengesetz in Kraft getreten. Die wichtigsten Änderungen betreffen die Lagerung von Waffen und Munition.
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Mitgliedschaft</title>
-      <link>https://sgi-flaemingrand.github.io/mitgliedschaft/</link>
+      <link>http://sgi-flaemingrand.de/mitgliedschaft/</link>
       <pubDate>Fri, 06 Oct 2017 12:39:56 +0200</pubDate>
       
-      <guid>https://sgi-flaemingrand.github.io/mitgliedschaft/</guid>
+      <guid>http://sgi-flaemingrand.de/mitgliedschaft/</guid>
       <description>Dieser Bereich befindet sich noch im Aufbau !
 Die Satzung der Schützengilde Flämingrand e.V. Satzung Stand 05-2017
 Der Mitgliedsbeitrag wird jährlich auf der Mitgliederversammlung festgelegt.
@@ -103,29 +103,29 @@ Weiterhin sind alle Mitglieder zum Ableisten von Arbeitsstunden verpflichtet. Da
     
     <item>
       <title>Datenschutzerklärung</title>
-      <link>https://sgi-flaemingrand.github.io/dsvgo/</link>
+      <link>http://sgi-flaemingrand.de/dsvgo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sgi-flaemingrand.github.io/dsvgo/</guid>
+      <guid>http://sgi-flaemingrand.de/dsvgo/</guid>
       <description>Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der Verarbeitung von personenbezogenen Daten (nachfolgend kurz „Daten“) im Rahmen der Erbringung unserer Leistungen sowie innerhalb unseres Onlineangebotes und der mit ihm verbundenen Webseiten, Funktionen und Inhalte sowie externen Onlinepräsenzen, wie z.B. unser Social Media Profile auf (nachfolgend gemeinsam bezeichnet als „Onlineangebot“). Im Hinblick auf die verwendeten Begrifflichkeiten, wie z.B. „Verarbeitung“ oder „Verantwortlicher“ verweisen wir auf die Definitionen im Art.</description>
     </item>
     
     <item>
       <title>FAQ</title>
-      <link>https://sgi-flaemingrand.github.io/faq/</link>
+      <link>http://sgi-flaemingrand.de/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sgi-flaemingrand.github.io/faq/</guid>
+      <guid>http://sgi-flaemingrand.de/faq/</guid>
       <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
 1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER? Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
     </item>
     
     <item>
       <title>Kontakt und Impressum</title>
-      <link>https://sgi-flaemingrand.github.io/contact/</link>
+      <link>http://sgi-flaemingrand.de/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sgi-flaemingrand.github.io/contact/</guid>
+      <guid>http://sgi-flaemingrand.de/contact/</guid>
       <description>Angaben gemäß § 5 TMG SGi Flämingrand e.V.
 Schönefelder Weg 2
 06895 Zahna-Elster
@@ -148,10 +148,10 @@ Haftungsausschluss: Haftung für Inhalte Die Inhalte unserer Seiten wurden mit g
     
     <item>
       <title>Über uns</title>
-      <link>https://sgi-flaemingrand.github.io/about/</link>
+      <link>http://sgi-flaemingrand.de/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sgi-flaemingrand.github.io/about/</guid>
+      <guid>http://sgi-flaemingrand.de/about/</guid>
       <description>Geschichte Bereits Im Jahre 1994 wurde die Schützengilde &amp;ldquo;Flämingrand e.V.&amp;rdquo; gegründet. In mühevoller jahrelanger Arbeit wurde im Rahnsdorfer Forst aus einer ehemaligen verwilderten Schießanlage durch die damaligen Gründungsmitglieder, Helfer und Gönner in voller Eigeninitiative und mit voller finanzieller Eigenleistung ein Schießplatz geschaffen, der den heutigen Vorschriften und Maßstäben des Deutschen Schützenbundes (DSB) entspricht.
 Da sich das Zentrum der Sportaktivitäten im Rahnsdorfer Forst befindet, (Rahnsdorf-heute zur Stadt Zahna gehörend) wurde im Jahr 1994 im Vereinsregister des Landes Sachsen-Anhalt der Verein als Schützengilde &amp;ldquo;Flämingrand e.</description>
     </item>
