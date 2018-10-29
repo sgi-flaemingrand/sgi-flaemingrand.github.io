@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on SGi Flämingrand e.V.</title>
-    <link>http://sgi-flaemingrand.de/categories/</link>
+    <link>https://sgi-flaemingrand.github.io/categories/</link>
     <description>Recent content in Categories on SGi Flämingrand e.V.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>Copyright (c) 2018, Schützengilde Flämingrand e.V.</copyright>
     
-	<atom:link href="http://sgi-flaemingrand.de/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sgi-flaemingrand.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Mitgliedschaft</title>
-      <link>http://sgi-flaemingrand.de/categories/mitgliedschaft/</link>
+      <link>https://sgi-flaemingrand.github.io/categories/mitgliedschaft/</link>
       <pubDate>Fri, 06 Oct 2017 12:39:56 +0200</pubDate>
       
-      <guid>http://sgi-flaemingrand.de/categories/mitgliedschaft/</guid>
+      <guid>https://sgi-flaemingrand.github.io/categories/mitgliedschaft/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recht</title>
-      <link>http://sgi-flaemingrand.de/categories/recht/</link>
+      <link>https://sgi-flaemingrand.github.io/categories/recht/</link>
       <pubDate>Fri, 06 Oct 2017 12:39:56 +0200</pubDate>
       
-      <guid>http://sgi-flaemingrand.de/categories/recht/</guid>
+      <guid>https://sgi-flaemingrand.github.io/categories/recht/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Satzung</title>
-      <link>http://sgi-flaemingrand.de/categories/satzung/</link>
+      <link>https://sgi-flaemingrand.github.io/categories/satzung/</link>
       <pubDate>Fri, 06 Oct 2017 12:39:56 +0200</pubDate>
       
-      <guid>http://sgi-flaemingrand.de/categories/satzung/</guid>
+      <guid>https://sgi-flaemingrand.github.io/categories/satzung/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Termine 2018</title>
-      <link>http://sgi-flaemingrand.de/categories/termine-2018/</link>
+      <link>https://sgi-flaemingrand.github.io/categories/termine-2018/</link>
       <pubDate>Sat, 06 Oct 2018 13:44:37 +0200</pubDate>
       
-      <guid>http://sgi-flaemingrand.de/categories/termine-2018/</guid>
+      <guid>https://sgi-flaemingrand.github.io/categories/termine-2018/</guid>
       <description></description>
     </item>
     
