@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sgi-flaemingrand.github.io/blog/2018/11/13/termine-2019/</loc>
+    <lastmod>2018-11-13T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sgi-flaemingrand.github.io/blog/2018/11/10/martinsgans/</loc>
     <lastmod>2018-11-10T21:27:53+01:00</lastmod>
   </url>
@@ -48,7 +53,7 @@
   
   <url>
     <loc>https://sgi-flaemingrand.github.io/blog/</loc>
-    <lastmod>2018-11-10T21:27:53+01:00</lastmod>
+    <lastmod>2018-11-13T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -101,7 +106,7 @@
   
   <url>
     <loc>https://sgi-flaemingrand.github.io/</loc>
-    <lastmod>2018-11-10T21:27:53+01:00</lastmod>
+    <lastmod>2018-11-13T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -125,13 +130,13 @@
   
   <url>
     <loc>https://sgi-flaemingrand.github.io/tags/termine/</loc>
-    <lastmod>2018-10-06T13:44:37+02:00</lastmod>
+    <lastmod>2018-11-13T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sgi-flaemingrand.github.io/categories/termine-2018/</loc>
-    <lastmod>2018-10-06T13:44:37+02:00</lastmod>
+    <lastmod>2018-11-13T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
