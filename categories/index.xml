@@ -6,15 +6,23 @@
     <description>Recent content in Categories on SGi Flämingrand e.V.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <copyright>Copyright (c) 2018, Schützengilde Flämingrand e.V.</copyright>
     
 	<atom:link href="https://sgi-flaemingrand.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Kontakt</title>
+      <link>https://sgi-flaemingrand.github.io/categories/kontakt/</link>
+      <pubDate>Fri, 15 Feb 2019 20:00:00 +0200</pubDate>
+      
+      <guid>https://sgi-flaemingrand.github.io/categories/kontakt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mitgliedschaft</title>
       <link>https://sgi-flaemingrand.github.io/categories/mitgliedschaft/</link>
-      <pubDate>Fri, 06 Oct 2017 12:39:56 +0200</pubDate>
+      <pubDate>Fri, 15 Feb 2019 20:00:00 +0200</pubDate>
       
       <guid>https://sgi-flaemingrand.github.io/categories/mitgliedschaft/</guid>
       <description></description>
@@ -23,7 +31,7 @@
     <item>
       <title>Recht</title>
       <link>https://sgi-flaemingrand.github.io/categories/recht/</link>
-      <pubDate>Fri, 06 Oct 2017 12:39:56 +0200</pubDate>
+      <pubDate>Fri, 15 Feb 2019 20:00:00 +0200</pubDate>
       
       <guid>https://sgi-flaemingrand.github.io/categories/recht/</guid>
       <description></description>
@@ -32,7 +40,7 @@
     <item>
       <title>Satzung</title>
       <link>https://sgi-flaemingrand.github.io/categories/satzung/</link>
-      <pubDate>Fri, 06 Oct 2017 12:39:56 +0200</pubDate>
+      <pubDate>Fri, 15 Feb 2019 20:00:00 +0200</pubDate>
       
       <guid>https://sgi-flaemingrand.github.io/categories/satzung/</guid>
       <description></description>
@@ -53,6 +61,15 @@
       <pubDate>Tue, 13 Nov 2018 00:00:00 +0200</pubDate>
       
       <guid>https://sgi-flaemingrand.github.io/categories/termine-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vorstand</title>
+      <link>https://sgi-flaemingrand.github.io/categories/vorstand/</link>
+      <pubDate>Fri, 15 Feb 2019 20:00:00 +0200</pubDate>
+      
+      <guid>https://sgi-flaemingrand.github.io/categories/vorstand/</guid>
       <description></description>
     </item>
     

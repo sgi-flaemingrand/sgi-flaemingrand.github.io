@@ -6,8 +6,7 @@
     <description>Recent content in Recht on SGi Flämingrand e.V.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <copyright>Copyright (c) 2018, Schützengilde Flämingrand e.V.</copyright>
-    <lastBuildDate>Fri, 06 Oct 2017 12:39:56 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 15 Feb 2019 20:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://sgi-flaemingrand.github.io/categories/recht/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,15 +14,25 @@
     <item>
       <title>Mitgliedschaft</title>
       <link>https://sgi-flaemingrand.github.io/mitgliedschaft/</link>
-      <pubDate>Fri, 06 Oct 2017 12:39:56 +0200</pubDate>
+      <pubDate>Fri, 15 Feb 2019 20:00:00 +0200</pubDate>
       
       <guid>https://sgi-flaemingrand.github.io/mitgliedschaft/</guid>
       <description>Dieser Bereich befindet sich noch im Aufbau !
 Die Satzung der Schützengilde Flämingrand e.V. Satzung Stand 05-2017
 Der Mitgliedsbeitrag wird jährlich auf der Mitgliederversammlung festgelegt.
-Im Jahr 2017 wurden ein Mitgliedsbeitrag von 125,00 € und eine einmalige Aufnahmegebühr von 200,00 € beschlossen.
+Im Jahr 2019 wurden ein Mitgliedsbeitrag von 125,00 € und eine einmalige Aufnahmegebühr von 200,00 € beschlossen.
 Weiterhin sind alle Mitglieder zum Ableisten von Arbeitsstunden verpflichtet. Dazu wurde folgende Staffelung beschlossen:
   Mitgliedsstatus Anzahl der Pflichtstunden     In den ersten 5 Jahren der Mitgliedschaft 16 Stunden   Ab dem 6.</description>
+    </item>
+    
+    <item>
+      <title>Vorstand</title>
+      <link>https://sgi-flaemingrand.github.io/vorstand/</link>
+      <pubDate>Fri, 15 Feb 2019 20:00:00 +0200</pubDate>
+      
+      <guid>https://sgi-flaemingrand.github.io/vorstand/</guid>
+      <description>Der geschäftsführende Vorstand besteht aus:
+  Funktion Name Kontakt     1.Vorsitzender Sebastian Tschiedel vorstand@sgi-flaemingrand.de   2. Vorsitzender Daniel Michaelis vorstand@sgi-flaemingrand.de   Schatzmeister Thomas Bier vorstand@sgi-flaemingrand.de  Der erweiterte Vorstand besteht weiterhin aus:     Schriftführerin Nicole Kühne vorstand@sgi-flaemingrand.de   Sportleiter Phillip Kühne vorstand@sgi-flaemingrand.de   Jugendleiter Michael Reim vorstand@sgi-flaemingrand.de     </description>
     </item>
     
   </channel>

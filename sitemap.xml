@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://sgi-flaemingrand.github.io/mitgliedschaft/</loc>
+    <lastmod>2019-02-15T20:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sgi-flaemingrand.github.io/vorstand/</loc>
+    <lastmod>2019-02-15T20:00:00+02:00</lastmod>
+  </url>
   
   <url>
     <loc>https://sgi-flaemingrand.github.io/blog/2018/11/13/termine-2019/</loc>
@@ -12,18 +23,8 @@
   </url>
   
   <url>
-    <loc>https://sgi-flaemingrand.github.io/blog/2018/10/24/hinweis/</loc>
-    <lastmod>2018-10-24T11:58:35+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://sgi-flaemingrand.github.io/blog/2018/10/06/termine/</loc>
     <lastmod>2018-10-06T13:44:37+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sgi-flaemingrand.github.io/vorstand/</loc>
-    <lastmod>2018-10-05T20:17:35+02:00</lastmod>
   </url>
   
   <url>
@@ -47,11 +48,6 @@
   </url>
   
   <url>
-    <loc>https://sgi-flaemingrand.github.io/mitgliedschaft/</loc>
-    <lastmod>2017-10-06T12:39:56+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://sgi-flaemingrand.github.io/blog/</loc>
     <lastmod>2018-11-13T00:00:00+02:00</lastmod>
     <priority>0</priority>
@@ -68,12 +64,18 @@
   
   <url>
     <loc>https://sgi-flaemingrand.github.io/tags/downloads/</loc>
-    <lastmod>2017-10-06T12:39:56+02:00</lastmod>
+    <lastmod>2019-02-15T20:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sgi-flaemingrand.github.io/faq/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sgi-flaemingrand.github.io/categories/kontakt/</loc>
+    <lastmod>2019-02-15T20:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -94,25 +96,25 @@
   
   <url>
     <loc>https://sgi-flaemingrand.github.io/categories/mitgliedschaft/</loc>
-    <lastmod>2017-10-06T12:39:56+02:00</lastmod>
+    <lastmod>2019-02-15T20:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sgi-flaemingrand.github.io/categories/recht/</loc>
-    <lastmod>2017-10-06T12:39:56+02:00</lastmod>
+    <lastmod>2019-02-15T20:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sgi-flaemingrand.github.io/</loc>
-    <lastmod>2018-11-13T00:00:00+02:00</lastmod>
+    <lastmod>2019-02-15T20:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sgi-flaemingrand.github.io/categories/satzung/</loc>
-    <lastmod>2017-10-06T12:39:56+02:00</lastmod>
+    <lastmod>2019-02-15T20:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -124,7 +126,7 @@
   
   <url>
     <loc>https://sgi-flaemingrand.github.io/tags/</loc>
-    <lastmod>2017-10-06T12:39:56+02:00</lastmod>
+    <lastmod>2019-02-15T20:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -143,6 +145,12 @@
   <url>
     <loc>https://sgi-flaemingrand.github.io/categories/termine-2019/</loc>
     <lastmod>2018-11-13T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sgi-flaemingrand.github.io/categories/vorstand/</loc>
+    <lastmod>2019-02-15T20:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
