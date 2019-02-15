@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2019 on SGi Flämingrand e.V.</title>
+    <link>https://sgi-flaemingrand.github.io/categories/2019/</link>
+    <description>Recent content in 2019 on SGi Flämingrand e.V.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Tue, 13 Nov 2018 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://sgi-flaemingrand.github.io/categories/2019/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Termine</title>
+      <link>https://sgi-flaemingrand.github.io/blog/2018/11/13/termine-2019/</link>
+      <pubDate>Tue, 13 Nov 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://sgi-flaemingrand.github.io/blog/2018/11/13/termine-2019/</guid>
+      <description>&lt;p&gt;Dies sind die geplanten Termine im Jahr 2019.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

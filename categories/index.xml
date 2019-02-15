@@ -6,9 +6,28 @@
     <description>Recent content in Categories on SGi Flämingrand e.V.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
+    <lastBuildDate>Sat, 06 Oct 2018 13:44:37 +0200</lastBuildDate>
     
 	<atom:link href="https://sgi-flaemingrand.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2018</title>
+      <link>https://sgi-flaemingrand.github.io/categories/2018/</link>
+      <pubDate>Sat, 06 Oct 2018 13:44:37 +0200</pubDate>
+      
+      <guid>https://sgi-flaemingrand.github.io/categories/2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2019</title>
+      <link>https://sgi-flaemingrand.github.io/categories/2019/</link>
+      <pubDate>Tue, 13 Nov 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://sgi-flaemingrand.github.io/categories/2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Kontakt</title>
@@ -47,20 +66,20 @@
     </item>
     
     <item>
-      <title>Termine 2018</title>
-      <link>https://sgi-flaemingrand.github.io/categories/termine-2018/</link>
-      <pubDate>Sat, 06 Oct 2018 13:44:37 +0200</pubDate>
+      <title>Sport</title>
+      <link>https://sgi-flaemingrand.github.io/categories/sport/</link>
+      <pubDate>Sat, 10 Nov 2018 21:27:53 +0100</pubDate>
       
-      <guid>https://sgi-flaemingrand.github.io/categories/termine-2018/</guid>
+      <guid>https://sgi-flaemingrand.github.io/categories/sport/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Termine 2019</title>
-      <link>https://sgi-flaemingrand.github.io/categories/termine-2019/</link>
+      <title>Termine</title>
+      <link>https://sgi-flaemingrand.github.io/categories/termine/</link>
       <pubDate>Tue, 13 Nov 2018 00:00:00 +0200</pubDate>
       
-      <guid>https://sgi-flaemingrand.github.io/categories/termine-2019/</guid>
+      <guid>https://sgi-flaemingrand.github.io/categories/termine/</guid>
       <description></description>
     </item>
     
@@ -70,6 +89,15 @@
       <pubDate>Fri, 15 Feb 2019 20:00:00 +0200</pubDate>
       
       <guid>https://sgi-flaemingrand.github.io/categories/vorstand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wettkampf</title>
+      <link>https://sgi-flaemingrand.github.io/categories/wettkampf/</link>
+      <pubDate>Sat, 10 Nov 2018 21:27:53 +0100</pubDate>
+      
+      <guid>https://sgi-flaemingrand.github.io/categories/wettkampf/</guid>
       <description></description>
     </item>
     
