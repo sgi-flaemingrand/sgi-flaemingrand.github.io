@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recht on SGi Flämingrand e.V.</title>
-    <link>https://sgi-flaemingrand.github.io/categories/recht/</link>
+    <link>https://sgi-flaemingrand.de/categories/recht/</link>
     <description>Recent content in Recht on SGi Flämingrand e.V.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <lastBuildDate>Fri, 15 Feb 2019 23:12:10 +0100</lastBuildDate>
     
-	<atom:link href="https://sgi-flaemingrand.github.io/categories/recht/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sgi-flaemingrand.de/categories/recht/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Datenschutzerklaerung</title>
-      <link>https://sgi-flaemingrand.github.io/blog/2019/02/15/datenschutzerklaerung/</link>
+      <link>https://sgi-flaemingrand.de/blog/2019/02/15/datenschutzerklaerung/</link>
       <pubDate>Fri, 15 Feb 2019 23:12:10 +0100</pubDate>
       
-      <guid>https://sgi-flaemingrand.github.io/blog/2019/02/15/datenschutzerklaerung/</guid>
+      <guid>https://sgi-flaemingrand.de/blog/2019/02/15/datenschutzerklaerung/</guid>
       <description>&lt;p&gt;Datenschutz ist auch in unserem Verein ein Thema. Aus diesem Grund hat sich die Schützengilde Flämingrand e.V. auf folgende Grundsätze verständigt.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -24,10 +24,10 @@
     
     <item>
       <title>Mitgliedschaft</title>
-      <link>https://sgi-flaemingrand.github.io/mitgliedschaft/</link>
+      <link>https://sgi-flaemingrand.de/mitgliedschaft/</link>
       <pubDate>Fri, 15 Feb 2019 20:00:00 +0200</pubDate>
       
-      <guid>https://sgi-flaemingrand.github.io/mitgliedschaft/</guid>
+      <guid>https://sgi-flaemingrand.de/mitgliedschaft/</guid>
       <description>Dieser Bereich befindet sich noch im Aufbau !
 Die Satzung der Schützengilde Flämingrand e.V. Satzung Stand 05-2017
 Der Mitgliedsbeitrag wird jährlich auf der Mitgliederversammlung festgelegt.
@@ -38,10 +38,10 @@ Weiterhin sind alle Mitglieder zum Ableisten von Arbeitsstunden verpflichtet. Da
     
     <item>
       <title>Vorstand</title>
-      <link>https://sgi-flaemingrand.github.io/vorstand/</link>
+      <link>https://sgi-flaemingrand.de/vorstand/</link>
       <pubDate>Fri, 15 Feb 2019 20:00:00 +0200</pubDate>
       
-      <guid>https://sgi-flaemingrand.github.io/vorstand/</guid>
+      <guid>https://sgi-flaemingrand.de/vorstand/</guid>
       <description>Der geschäftsführende Vorstand besteht aus:
   Funktion Name Kontakt     1.Vorsitzender Sebastian Tschiedel vorstand@sgi-flaemingrand.de   2. Vorsitzender Daniel Michaelis vorstand@sgi-flaemingrand.de   Schatzmeister Thomas Bier vorstand@sgi-flaemingrand.de  Der erweiterte Vorstand besteht weiterhin aus:     Schriftführerin Nicole Kühne vorstand@sgi-flaemingrand.de   Sportleiter Philipp Kühne vorstand@sgi-flaemingrand.de   Jugendleiter Michael Reim vorstand@sgi-flaemingrand.de     </description>
     </item>
