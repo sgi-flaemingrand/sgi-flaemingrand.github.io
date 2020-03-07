@@ -221,9 +221,7 @@ function counters () {
 function pictureZoom () {
   $('.product .image, .post .image, .photostream div').each(function () {
     var imgHeight = $(this).find('img').height()
-    if (imgHeight) {
-      $(this).height(imgHeight)
-    }
+    $(this).height(imgHeight)
   })
 }
 
