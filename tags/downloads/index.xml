@@ -1,27 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Downloads on SGi Flämingrand e.V.</title>
-    <link>https://sgi-flaemingrand.github.io/tags/downloads/</link>
+    <link>https://sgi-flaemingrand.de/tags/downloads/</link>
     <description>Recent content in Downloads on SGi Flämingrand e.V.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Fri, 06 Oct 2017 12:39:56 +0200</lastBuildDate>
-    
-	<atom:link href="https://sgi-flaemingrand.github.io/tags/downloads/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Fri, 15 Feb 2019 23:12:10 +0100</lastBuildDate><atom:link href="https://sgi-flaemingrand.de/tags/downloads/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Datenschutzerklaerung</title>
+      <link>https://sgi-flaemingrand.de/blog/2019/02/15/datenschutzerklaerung/</link>
+      <pubDate>Fri, 15 Feb 2019 23:12:10 +0100</pubDate>
+      
+      <guid>https://sgi-flaemingrand.de/blog/2019/02/15/datenschutzerklaerung/</guid>
+      <description>&lt;p&gt;Datenschutz ist auch in unserem Verein ein Thema. Aus diesem Grund hat sich die Schützengilde Flämingrand e.V. auf folgende Grundsätze verständigt.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Mitgliedschaft</title>
-      <link>https://sgi-flaemingrand.github.io/mitgliedschaft/</link>
-      <pubDate>Fri, 06 Oct 2017 12:39:56 +0200</pubDate>
+      <link>https://sgi-flaemingrand.de/mitgliedschaft/</link>
+      <pubDate>Fri, 15 Feb 2019 20:00:00 +0200</pubDate>
       
-      <guid>https://sgi-flaemingrand.github.io/mitgliedschaft/</guid>
-      <description>Die Satzung der Schützengilde Flämingrand e.V. Satzung Stand 05-2017
+      <guid>https://sgi-flaemingrand.de/mitgliedschaft/</guid>
+      <description>Dieser Bereich befindet sich noch im Aufbau !
+Die Satzung der Schützengilde Flämingrand e.V. Satzung Stand 05-2017
 Der Mitgliedsbeitrag wird jährlich auf der Mitgliederversammlung festgelegt.
-Im Jahr 2020 wurden ein Mitgliedsbeitrag von 125,00 € und eine einmalige Aufnahmegebühr von 200,00 € beschlossen.
-Weiterhin sind alle Mitglieder zum Ableisten von Arbeitsstunden verpflichtet. Dazu wurde folgende Staffelung beschlossen:
-  Mitgliedsstatus Anzahl der Pflichtstunden     In den ersten 5 Jahren der Mitgliedschaft 16 Stunden   Ab dem 6.</description>
+Im Jahr 2022 wurden ein Mitgliedsbeitrag von 125,00 € und eine einmalige Aufnahmegebühr von 200,00 € beschlossen. Für Kinder und Jugendliche wurde ein jährlicher Mitgliedsbeitrag von 30,00 € ohne Entrichtung einer Aufnahmegebühr beschlossen.
+Weiterhin sind alle Mitglieder zum Ableisten von Arbeitsstunden verpflichtet. Dazu wurde folgende Staffelung beschlossen:</description>
     </item>
     
   </channel>
